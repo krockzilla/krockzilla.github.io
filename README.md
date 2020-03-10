@@ -1,2 +1,2 @@
-# krockzilla.github.io
+# krockzilla
 my awesome site
