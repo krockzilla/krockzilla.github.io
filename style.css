@@ -18,6 +18,21 @@ footer {
   width: 700px !important;
 }
 
+.have {
+  transform-origin: center;
+  -ms-transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  position: absolute;
+  left: -15px;
+  top: 1000px;
+  font-size: 5px;
+}
+
+.hi {
+  font-size: 6px;
+}
+
 img {
   width: initial !important;
 }
